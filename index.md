@@ -16,7 +16,7 @@
   </font>
 
  <div class="title">
-    <a href="https://t.me/sevkoko"target="_blank" >telegram</a>
+    <a href="https://t.me/sevkoko"target="_blank">telegram</a>
 <a href="https://www.instagram.com/sevverin/?hl=ru" target="_blank">instagram</a>
 <a href="https://www.youtube.com/channel/UCkhTH6QbNZZmKsBdNHr_-Ww?view_as=subscriber" target="_blank">youtube</a>
 </div>
